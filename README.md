@@ -14,7 +14,11 @@ Deployment: Netlify
 
 # Features
 ✔Responsive Design – Optimized for mobile and desktop devices.
+
 ✔Project Showcase – Displays key projects with descriptions and links.
+
 ✔Skills & Experience – Highlights technical skills and work history.
+
 ✔Contact Form – Allows visitors to reach out via email.
+
 ✔Smooth Animations – Enhances user experience with modern UI effects.
