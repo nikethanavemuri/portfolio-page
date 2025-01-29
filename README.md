@@ -3,9 +3,13 @@ This is my personal portfolio website built using React to showcase my skills, p
 
 # Technologies Used
 Frontend: React, HTML, CSS, JavaScript
+
 Styling: Tailwind CSS / Styled Components (if applicable)
+
 Routing: React Router (if applicable)
+
 Forms & Contact: EmailJS / Formspree (if applicable)
+
 Deployment: Netlify
 
 # Features
